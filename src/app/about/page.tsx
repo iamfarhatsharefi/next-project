@@ -8,7 +8,8 @@ const About = () => {
         This digital art gallery showcases a variety of artworks created by talented artists.
       </p>
       <div className="mt-8">
-        <Link href="/">
+        {/* Added legacyBehavior to support <a> */}
+        <Link href="/" legacyBehavior>
           <a className="text-blue-500 hover:underline">Go back to Home</a>
         </Link>
       </div>

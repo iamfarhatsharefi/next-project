@@ -4,6 +4,14 @@ A beautifully crafted Digital Art Gallery showcasing stunning digital artworks i
 Description
 The Digital Art Gallery allows users to explore a curated selection of digital artworks. Each section of the gallery is designed with attention to detail, featuring visually appealing designs, seamless user experience, and responsive layouts. The project includes multiple sections like a Home, About, and Contact page, each styled with modern web design principles, including smooth transitions, linear gradients, and animated buttons.
 
+## Demo 📸
+
+
+![Demo](./assests/drumphoto.PNG)
+![FreeCodeCamp](./assests/drumfreecodecamp.PNG)
+<br>
+ [Live-link](https://darling-madeleine-3b4c04.netlify.app/ )
+
 Features
 Responsive Design: Optimized for both desktop and mobile devices.
 Interactive Navigation: Smooth transitions and page navigation using Next.js Link.
@@ -43,3 +51,8 @@ Next.js: React framework for server-side rendering and static site generation.
 Tailwind CSS: Utility-first CSS framework for rapid UI development.
 JavaScript/TypeScript: For writing robust and maintainable code.
 HTML5 & CSS3: For semantic and accessible web structure.
+
+## Author 👩‍💻
+
+ - [Linkedin](https://www.linkedin.com/in/farhat-sharefi-13a101309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Email](sharefifarhat@gmail.com)

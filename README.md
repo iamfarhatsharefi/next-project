@@ -12,3 +12,29 @@ Customizable Backgrounds: Linear gradient backgrounds with vibrant colors for va
 Contact Form: Fully functional form for users to send messages.
 Animations: Buttons and elements feature smooth animations using CSS keyframes.
 Accessible: Semantic HTML and accessible form elements.
+
+How to Run the Project
+To run this Next.js project locally, follow these steps:
+
+Prerequisites
+Make sure you have the following installed on your machine:
+
+Node.js (version 14 or higher)
+npm or yarn
+Steps to Run
+Clone the repository:
+
+
+
+Navigate to the project directory:
+
+cd digital-art-gallery
+
+Install dependencies:
+Using npm:
+npm install
+
+Run the development server:
+Using npm:
+npm run dev
+

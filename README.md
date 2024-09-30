@@ -1,4 +1,5 @@
-Digital Art Gallery
+## Digital Art Gallery
+
 A beautifully crafted Digital Art Gallery showcasing stunning digital artworks in an interactive and responsive layout. This project demonstrates a modern web application built using Next.js, with smooth animations, elegant gradients, and dynamic page transitions.
 
 Description
@@ -7,19 +8,26 @@ The Digital Art Gallery allows users to explore a curated selection of digital a
 ## Demo 📸
 
 
-![Demo](./assests/drumphoto.PNG)
-![FreeCodeCamp](./assests/drumfreecodecamp.PNG)
+![Demo](./public/images/digital%20art%20gallery.PNG)
+
 <br>
  [Live-link](https://darling-madeleine-3b4c04.netlify.app/ )
 
 Features
 Responsive Design: Optimized for both desktop and mobile devices.
+
 Interactive Navigation: Smooth transitions and page navigation using Next.js Link.
+
 Modern UI: Designed with Tailwind CSS, incorporating gradients, shadows, and animations.
+
 Customizable Backgrounds: Linear gradient backgrounds with vibrant colors for various sections.
+
 Contact Form: Fully functional form for users to send messages.
+
 Animations: Buttons and elements feature smooth animations using CSS keyframes.
+
 Accessible: Semantic HTML and accessible form elements.
+
 
 How to Run the Project
 To run this Next.js project locally, follow these steps:
@@ -29,8 +37,11 @@ Make sure you have the following installed on your machine:
 
 Node.js (version 14 or higher)
 npm or yarn
+
 Steps to Run
 Clone the repository:
+
+git@github.com:iamfarhatsharefi/next-project.git
 
 
 
@@ -48,9 +59,13 @@ npm run dev
 
 Technologies Used
 Next.js: React framework for server-side rendering and static site generation.
+
 Tailwind CSS: Utility-first CSS framework for rapid UI development.
+
 JavaScript/TypeScript: For writing robust and maintainable code.
+
 HTML5 & CSS3: For semantic and accessible web structure.
+
 
 ## Author 👩‍💻
 

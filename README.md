@@ -1,4 +1,4 @@
-## Digital Art Gallery
+## Digital Art Gallery🎨
 
 A beautifully crafted Digital Art Gallery showcasing stunning digital artworks in an interactive and responsive layout. This project demonstrates a modern web application built using Next.js, with smooth animations, elegant gradients, and dynamic page transitions.
 
@@ -11,9 +11,9 @@ The Digital Art Gallery allows users to explore a curated selection of digital a
 ![Demo](./public/images/digital%20art%20gallery.PNG)
 
 <br>
- [Live-link](https://darling-madeleine-3b4c04.netlify.app/ )
+ [Live-link]( )
 
-Features
+🌟Features
 Responsive Design: Optimized for both desktop and mobile devices.
 
 Interactive Navigation: Smooth transitions and page navigation using Next.js Link.
@@ -29,7 +29,7 @@ Animations: Buttons and elements feature smooth animations using CSS keyframes.
 Accessible: Semantic HTML and accessible form elements.
 
 
-How to Run the Project
+💬 How to Run the Project
 To run this Next.js project locally, follow these steps:
 
 Prerequisites
@@ -57,7 +57,7 @@ Run the development server:
 Using npm:
 npm run dev
 
-Technologies Used
+🚀 Technologies Used
 Next.js: React framework for server-side rendering and static site generation.
 
 Tailwind CSS: Utility-first CSS framework for rapid UI development.

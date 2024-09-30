@@ -11,7 +11,7 @@ The Digital Art Gallery allows users to explore a curated selection of digital a
 ![Demo](./public/images/digital%20art%20gallery.PNG)
 
 <br>
- [Live-link]( )
+ [Live-link](https://quiet-rugelach-579fbc.netlify.app/ )
 
 🌟Features
 Responsive Design: Optimized for both desktop and mobile devices.

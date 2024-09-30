@@ -38,3 +38,8 @@ Run the development server:
 Using npm:
 npm run dev
 
+Technologies Used
+Next.js: React framework for server-side rendering and static site generation.
+Tailwind CSS: Utility-first CSS framework for rapid UI development.
+JavaScript/TypeScript: For writing robust and maintainable code.
+HTML5 & CSS3: For semantic and accessible web structure.
